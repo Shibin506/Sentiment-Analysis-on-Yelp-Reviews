@@ -20,7 +20,7 @@ Yelp hosts millions of reviews, but businesses often struggle to analyze them ef
 
 ☁️ Cloud Upload: Uploads results to AWS S3 using boto3
 
-📊 Dashboard Ready: Output is dashboard-compatible for tools like Streamlit, Power BI, or AWS QuickSight
+📊 Dashboard Ready: Output is dashboard-compatible for tools like Streamlit
 
 **System Architecture**
 
