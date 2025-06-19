@@ -1,0 +1,39 @@
+Review: The food was absolutely amazing and the service was great!
+Sentiment: Positive
+Polarity: 0.9
+
+Review: Worst restaurant experience I've had in a long time.
+Sentiment: Negative
+Polarity: -0.8
+
+Review: It was okay, nothing special.
+Sentiment: Neutral
+Polarity: 0.0
+
+Review: Super friendly staff and delicious drinks.
+Sentiment: Positive
+Polarity: 0.7
+
+Review: Too expensive for the quality provided.
+Sentiment: Negative
+Polarity: -0.4
+
+Review: Best sushi place in town!
+Sentiment: Positive
+Polarity: 0.8
+
+Review: Wouldn't recommend it to anyone.
+Sentiment: Negative
+Polarity: -0.6
+
+Review: Great ambiance and fast service!
+Sentiment: Positive
+Polarity: 0.85
+
+Review: Meh, not bad but not great either.
+Sentiment: Neutral
+Polarity: 0.0
+
+Review: Totally loved the dessert!
+Sentiment: Positive
+Polarity: 0.9
